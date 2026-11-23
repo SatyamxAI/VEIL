@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VEIL</string>
+    <string name="tagline">Private by design. Simple by nature.</string>
+    
+    <!-- Vault & Auth -->
+    <string name="unlock_vault">Unlock Vault</string>
+    <string name="enter_password">Enter master password</string>
+    <string name="biometric_prompt_title">Unlock VEIL</string>
+    <string name="biometric_prompt_subtitle">Authenticate with biometrics to access your encrypted vault</string>
+    <string name="create_vault">Create New Vault</string>
+    <string name="recovery_phrase">Recovery Phrase</string>
+    
+    <!-- Navigation -->
+    <string name="nav_timeline">Photos</string>
+    <string name="nav_albums">Albums</string>
+    <string name="nav_cloud">Cloud</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Backup -->
+    <string name="backup_status_synced">Backed up</string>
+    <string name="backup_status_syncing">Encrypting &amp; uploading…</string>
+    <string name="backup_status_local">Local only</string>
+    <string name="backup_status_error">Backup failed</string>
+</resources>

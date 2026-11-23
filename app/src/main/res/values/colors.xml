@@ -1,0 +1,23 @@
+<resources>
+    <!-- VEIL Dark Obsidian Palette -->
+    <color name="veil_black">#090A0D</color>
+    <color name="veil_surface">#111318</color>
+    <color name="veil_surface_variant">#1A1D24</color>
+    <color name="veil_card">#20242D</color>
+    <color name="veil_border">#2C313E</color>
+    
+    <!-- Accents -->
+    <color name="veil_emerald">#10B981</color>
+    <color name="veil_emerald_variant">#059669</color>
+    <color name="veil_indigo">#6366F1</color>
+    
+    <!-- Text -->
+    <color name="veil_text_primary">#F3F4F6</color>
+    <color name="veil_text_secondary">#9CA3AF</color>
+    <color name="veil_text_tertiary">#6B7280</color>
+    
+    <!-- Status Colors -->
+    <color name="veil_success">#10B981</color>
+    <color name="veil_warning">#F59E0B</color>
+    <color name="veil_error">#EF4444</color>
+</resources>

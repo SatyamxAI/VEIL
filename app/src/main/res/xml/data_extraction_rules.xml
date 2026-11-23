@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Disallow OS-level cloud backup of VEIL databases or keys -->
+        <exclude path="." />
+    </cloud-backup>
+    <device-transfer>
+        <exclude path="." />
+    </device-transfer>
+</data-extraction-rules>
